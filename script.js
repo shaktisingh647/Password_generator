@@ -19,7 +19,8 @@ setIndicator("#ccc");
  
 function handleSlider() {
     inputSlider.value = passwordLength;
-    
+    console.log("shakti singh");
+    console.log("javascript");
     lengthDisplay.innerHTML=passwordLength;
     
 
